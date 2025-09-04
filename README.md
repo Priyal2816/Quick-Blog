@@ -26,19 +26,19 @@ A full-featured blogging platform built with the **MERN stack (MongoDB, Express.
 
 ## 📂 Project Structure
 - QuickBlog/
--- │── client/       # React Frontend
--- │── server/       # Node + Express Backend
--- │── assets/       # Static assets
--- │── context/      # App context (state management)
--- │── README.md     # Documentation
+- │── client/       # React Frontend
+- │── server/       # Node + Express Backend
+- │── assets/       # Static assets
+- │── context/      # App context (state management)
+- │── README.md     # Documentation
 
 
 ## 🔑 Admin Credentials
 
 - For testing admin login, use:
 
--- Email: priyal@gmail.com
--- Password: priyal12
+- Email: priyal@gmail.com
+- Password: priyal12
 
 ## 🌟 Future Enhancements
 
