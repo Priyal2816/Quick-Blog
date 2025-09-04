@@ -17,28 +17,28 @@ A full-featured blogging platform built with the **MERN stack (MongoDB, Express.
   
 ## 🛠️ Tech Stack
 
-Frontend: React.js, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MongoDB + Mongoose
-Auth: Generative AI
-Image Host: ImageKit
-Dev Tools: Vite, Axios, Toast, Nodemon
+- Frontend: React.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB + Mongoose
+- Auth: Generative AI
+- Image Host: ImageKit
+- Dev Tools: Vite, Axios, Toast, Nodemon
 
 ## 📂 Project Structure
-QuickBlog/
-│── client/       # React Frontend
-│── server/       # Node + Express Backend
-│── assets/       # Static assets
-│── context/      # App context (state management)
-│── README.md     # Documentation
+- QuickBlog/
+-- │── client/       # React Frontend
+-- │── server/       # Node + Express Backend
+-- │── assets/       # Static assets
+-- │── context/      # App context (state management)
+-- │── README.md     # Documentation
 
 
 ## 🔑 Admin Credentials
 
-For testing admin login, use:
+- For testing admin login, use:
 
-Email: priyal@gmail.com
-Password: priyal12
+-- Email: priyal@gmail.com
+-- Password: priyal12
 
 ## 🌟 Future Enhancements
 
