@@ -1,6 +1,6 @@
 # 📖 QuickBlog – AI Powered Full Stack MERN Blog Platform
 
-A full-featured blogging platform built with the **MERN stack (MongoDB, Express.js, React, Node.js)** that allows users/admins to create, publish, and manage blogs. The project integrates **Generative AI (GenAI)** to assist in blog content creation — one of the most powerful and unique features!
+A full-featured blogging platform built with the **MERN stack (MongoDB, Express.js, React, Node.js)** that allows users/admins to create, publish, and manage blogs. The project integrates **Generative AI (GenAI)** to assist in blog content creation one of the most powerful and unique features!
 
 ## 🚀 Features
 
