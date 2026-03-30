@@ -1,6 +1,6 @@
 # QuickBlog – AI-Powered Full Stack Blogging Platform
 
-🔗 **Live Demo:** [live-link]()  
+🔗 **Live Demo:** [live-link](https://quick-blog-mu-six.vercel.app/)  
 📂 **GitHub:** [github.com/Priyal2816/Quick-Blog](https://github.com/Priyal2816/Quick-Blog)
 
 ## 📌 About
