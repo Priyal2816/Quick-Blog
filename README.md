@@ -1,52 +1,53 @@
-# 📖 QuickBlog – AI Powered Full Stack MERN Blog Platform
+# QuickBlog – AI-Powered Full Stack Blogging Platform
 
-A full-featured blogging platform built with the **MERN stack (MongoDB, Express.js, React, Node.js)** that allows users/admins to create, publish, and manage blogs. The project integrates **Generative AI (GenAI)** to assist in blog content creation one of the most powerful and unique features!
+🔗 **Live Demo:** [live-link]()  
+📂 **GitHub:** [github.com/Priyal2816/Quick-Blog](https://github.com/Priyal2816/Quick-Blog)
+
+## 📌 About
+A full-stack MERN blogging platform where admins can create and manage blogs with the power of Generative AI — auto-generating headlines, subheadings, and full paragraphs to boost writing productivity.
 
 ## 🚀 Features
 
 ### 🔮 AI-Powered Blog Creation (GenAI)
-- Auto-generate blog content using GenAI.
-- Suggests headlines, subheadings, and full paragraphs.
-- Saves time and boosts productivity for writers.
+- Auto-generate blog content using Generative AI
+- Suggests headlines, subheadings, and full paragraphs
+- Saves time and boosts productivity for writers
 
-### 🧠 Admin Features 
-- Secure login with JWT authentication.
-- Create, edit, delete blogs.
-- Toggle publish/draft status.
-- Dashboard with blog stats and recent posts.
-  
+### 🧠 Admin Features
+- Secure login with JWT authentication
+- Create, edit, and delete blogs
+- Toggle publish/draft status
+- Dashboard with blog stats and recent posts
+
 ## 🛠️ Tech Stack
-
-- Frontend: React.js, Tailwind CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB + Mongoose
-- Auth: Generative AI
-- Image Host: ImageKit
-- Dev Tools: Vite, Axios, Toast, Nodemon
-
-## 📂 Project Structure
-- QuickBlog/
-- │── client/       # React Frontend
-- │── server/       # Node + Express Backend
-- │── assets/       # Static assets
-- │── context/      # App context (state management)
-- │── README.md     # Documentation
+| Frontend | Backend | Database | Tools |
+|----------|---------|----------|-------|
+| React.js | Node.js | MongoDB | ImageKit |
+| Tailwind CSS | Express.js | Mongoose | JWT, Axios |
+| Vite | REST APIs | | Nodemon |
 
 
-## 🔑 Admin Credentials
+## 🚀 Getting Started
+```bash
+git clone https://github.com/Priyal2816/Quick-Blog.git
 
-- For testing admin login, use:
+# Backend
+cd server
+npm install
+npm run dev
 
-- Email: priyal@gmail.com
-- Password: priyal12
+# Frontend  
+cd client
+npm install
+npm run dev
+```
 
 ## 🌟 Future Enhancements
-
 - Blog Comments Section
 - Blog Like/Dislike System
 - User Authentication (separate from admin)
 - Dark Mode
 
 ## 👩‍💻 Author
-### Priyal Khandelwal
-B.Tech IT | Full-Stack Developer Aspirant
+**Priyal Khandelwal**  
+B.Tech IT | Full-Stack Developer | [LinkedIn](https://www.linkedin.com/in/priyal-khandelwal-7735b52b4/) | [GitHub](https://github.com/Priyal2816)
