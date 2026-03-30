@@ -1,7 +1,7 @@
 # QuickBlog – AI-Powered Full Stack Blogging Platform
 
 🔗 **Live Demo:** [live-link](https://quick-blog-bbxonpesq-priyal-khandelwals-projects.vercel.app/)  
-📂 **GitHub:** [github.com/Priyal2816/Quick-Blog](https://github.com/Priyal2816/Quick-Blog)
+📂 **GitHub:** [Github-Repo](https://github.com/Priyal2816/Quick-Blog)
 
 ## 📌 About
 A full-stack MERN blogging platform where admins can create and manage blogs with the power of Generative AI — auto-generating headlines, subheadings, and full paragraphs to boost writing productivity.
